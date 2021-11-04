@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BBC14088-2C59-452E-AD8E-F3901AA5F40D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sudoku_Threads/Program.cs">
+    <Files>
+      <File FileName="Sudoku_Threads/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sudoku_Threads" expanded="True">
+            <Node name="Sudoku_Threads" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sudoku__Threads FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
